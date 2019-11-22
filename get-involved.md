@@ -9,4 +9,4 @@ If you want to see positive change in your country, be a part of it! Join us on 
 Find out more about how you can get involved.
 
 
-[Volunteer](#){: .btn.btn-default}        [See current openings](#){: .btn.btn-default} 
+[Volunteer](#){: .btn.btn-primary}        [See current openings](#){: .btn.btn-primary} 
