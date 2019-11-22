@@ -10,4 +10,4 @@ Find out more about how you can get involved.
 
 
 
-[Volunteer](#)        [See current openings](#)
+[Volunteer](#){: .btn.btn-secondary}        [See current openings](#){: .btn.btn-secondary} 
