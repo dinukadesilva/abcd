@@ -4,10 +4,7 @@ Help make the future of better government a reality! Your generosity can ensure 
 
 [I’d like to donate](){: .btn.btn-primary}
 
-** Donations by cheque can be mailed/ handed over to: **
-
-Lanka Software Foundation
-
-C/ o Iromi Peiris
-
-7 Charles Place, Colombo 03
+*** Donations by cheque can be mailed/ handed over to: ***
+    Lanka Software Foundation
+    C/ o Iromi Peiris
+    7 Charles Place, Colombo 03
